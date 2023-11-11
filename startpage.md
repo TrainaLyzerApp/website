@@ -25,4 +25,4 @@ TrainaLyzer also provides a calendar-style overview of your past months training
 
 
 # Contact and Support
-To get in touch, don't hesitate to reach out to trainalyzerapp@gmail.com. 
+To get in touch, send an e-mail to trainalyzerapp@gmail.com. 
