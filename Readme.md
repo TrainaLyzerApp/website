@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="AppIcon.png" alt="images/AppIcon" width="200" height="200">
+  <img src="images/AppIcon.png" alt="images/AppIcon" width="200" height="200">
   <h1 style="margin-left: 12px;">Welcome!</h1>
 </div>
 
