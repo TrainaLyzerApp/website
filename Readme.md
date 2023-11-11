@@ -5,7 +5,7 @@
 
 
 
-## Features
+# Features
 
 ### Training Load
 Training load monitors your cumulative fatigue caused by training. It shows both cardio and strength based training load. 
@@ -24,5 +24,7 @@ TrainaLyzer also provides a calendar-style overview of your past months training
 <!-- Add more feature sections as needed -->
 
 
+
 # Contact and Support
 To get in touch, send an e-mail to trainalyzerapp@gmail.com. 
+
